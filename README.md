@@ -1,4 +1,4 @@
-# ChatDocu - Copiloto Conversacional sobre Documentos
+# DocuChat - Copiloto Conversacional sobre Documentos
 
 Aplicación desarrollada para el desafío técnico de CatchAI que permite conversar inteligentemente con hasta 5 documentos PDF mediante RAG.
 
